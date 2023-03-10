@@ -3,7 +3,7 @@
 ---
 
 
-[[Homepage\|Homepage]]
+[[About/Index\|Index]]
 
 ---
 
