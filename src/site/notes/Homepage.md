@@ -14,4 +14,4 @@ Enjoy!
 ---
 
 ## ABNS
-### [[ABNS/ABNS, Written Board\|Written Board]]
+### [[ABNS, Written Board\|Written Board]]
