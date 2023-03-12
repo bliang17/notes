@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/abns/abns-written-board/","tags":["ABNS"],"created":"","updated":""}
 ---
 
-
+I took the ABNS written exam in March 2021, before the reform. 
 
 ## Books
 - [The Comprehensive Neurosurgery Board Preparation Book: Illustrated Questions and Answers: 9781626232808: Medicine & Health Science Books @ Amazon.com](https://www.amazon.com/Comprehensive-Neurosurgery-Board-Preparation-Book/dp/1626232806/ref=sr_1_fkmr1_2?crid=JTEBG8SGK5JA&keywords=neurosurgery+book+exam+comprehensive&qid=1678401456&sprefix=neurosurgery+book+exam+comprehensive%2Caps%2C97&sr=8-2-fkmr1&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc) - Excellent Q&A book, recommend for early stage knowledge accumulation
@@ -18,4 +18,4 @@
 ---
 
 ## Websites
-- [TeachMeAnatomy - Making Anatomy Simple](https://teachmeanatomy.info/) -  Excellent website for basic anatomy study.
+- [TeachMeAnatomy - Making Anatomy Simple](https://teachmeanatomy.info/) -  Excellent website for basic anatomy study
