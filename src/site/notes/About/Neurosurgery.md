@@ -5,7 +5,7 @@
 
 This is a broad topic that includes multiple subsepcialties. 
 
-Areas covered in this category includes the following:
+Areas covered in this category includes the following topics:
 
 ## ABNS
 - [[ABNS/ABNS, Written Board\|Written board]]
